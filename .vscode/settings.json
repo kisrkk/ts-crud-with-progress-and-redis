@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "fastify"
+    ],
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "test aws",
+            "host": "aa9xckhaivipo-ats.iot.ap-southeast-2.amazonaws.com",
+            "port": 1883,
+            "clientId": "vsmqtt_client_6143"
+        }
+    ]
+}

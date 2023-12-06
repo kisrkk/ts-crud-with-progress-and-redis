@@ -1,0 +1,12 @@
+database:
+  username: 'postgres'
+  password: '2wsxcde345'
+  host: 'localhost'
+  port: 5432
+  db_name: 'postgres'
+redis:
+  host: 'localhost'
+  port: 6379
+security:
+  expired_sessions: 78600
+  rate_limit: 256
